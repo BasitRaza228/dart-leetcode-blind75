@@ -38,5 +38,3 @@ Blind 75 problem set curated by Amogh. (https://leetcode.com/u/amoghmc)
 
 ## 📜 License
 This repository is licensed under the MIT License.
-
-### **dart, flutter, algorithms, data-structures, leetcode, blind75, interview-prep, competitive-programming, coding-challenges, problem-solving**  
